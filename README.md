@@ -1,5 +1,5 @@
 ## Noel :penguin: ![](https://img.shields.io/static/v1?label=pronouns&message=he/they&color=8cf)
-:uk: `english`  :es: `español`  :octopus: `galego`
+:uk: `english`  :es: `spanish`  :octopus: `galician`
 
 ```python
 
