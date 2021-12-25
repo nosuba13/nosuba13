@@ -1,4 +1,5 @@
-## Noel :penguin: ![](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=8cf)
+## Noel :penguin: ![](https://img.shields.io/static/v1?label=pronouns&message=he/they&color=8cf)
+:uk: `english`  :es: `español`  :octopus: `galego`
 
 ```python
 
@@ -10,6 +11,7 @@ self.interests = [ "Software Development", "Data Visualization", "Artificial Int
 ```
 
 ### Main Languages
+
 
 <p>
   <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" alt="c" height=40 hspace=10>
